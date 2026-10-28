@@ -1,13 +1,5 @@
 {
   "schema": 1,
-  "updated": "2026-10-28T04:16:01.311Z",
-  "keys": {
-    "d2cad2e64cd3e79c5b0940454683c1e5395d2755569344c6208cad0be8970fbe": {
-      "label": "guilheme le fdp",
-      "status": "active",
-      "created": "2026-10-28T03:56:15.598Z",
-      "expires": null,
-      "note": ""
-    }
-  }
+  "updated": "2026-10-28T04:16:03.085Z",
+  "keys": {}
 }
