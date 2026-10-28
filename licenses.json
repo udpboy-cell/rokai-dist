@@ -1,5 +1,13 @@
 {
   "schema": 1,
-  "updated": "2026-10-28T04:16:03.085Z",
-  "keys": {}
+  "updated": "2026-10-28T04:16:12.703Z",
+  "keys": {
+    "80f6ddd80424bbc48a2757ae98b125f06d1f61778ad2ce792ebc0c01bbfb636e": {
+      "label": "",
+      "status": "active",
+      "created": "2026-10-28T04:16:12.703Z",
+      "expires": null,
+      "note": "partagé via l'onglet Partager"
+    }
+  }
 }
